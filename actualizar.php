@@ -3,6 +3,8 @@ $titulo_personalizado = "Actualizar";
 $clase_body = "body_actualizar";
 include 'cabecera.php';
 
+//Comentario prueba de GIT
+
 //Aqui vamos a ubicar la coneccion con nuestra base de datos 
 include 'configuracion.php';
 $conexion = new mysqli(SERVIDOR_BD, USUARIO_BD, CLAVE_BD, NOMBRE_BD);
