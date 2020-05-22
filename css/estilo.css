@@ -1,0 +1,28 @@
+.body_actualizar {
+    background-image:url(../upload/iceberg.jpg);
+    background-size: 100vw 100vh;
+    background-attachment:fixed;
+    margin: 0;
+    font-family: monospace;
+}
+.body_borrar{
+     background-image:url(../upload/busqueda.jpg);
+    background-size: 100vw 100vh;
+    background-attachment:fixed;
+    margin: 0;
+    font-family: monospace;
+}
+.body_alta{
+     background-image:url(../upload/oregon.jpg);
+    background-size: 100vw 100vh;
+    background-attachment:fixed;
+    margin: 0;
+    font-family: monospace;
+}
+.body_consultar{
+     background-image:url(../upload/warner.jpg);
+    background-size: 100vw 100vh;
+    background-attachment:fixed;
+    margin: 0;
+    font-family: monospace;
+}
